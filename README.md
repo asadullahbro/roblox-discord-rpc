@@ -14,4 +14,4 @@ A high-performance, secure Python script that displays your current Roblox game 
 3. Open the newly created `.env` file and paste your `ROBLOX_USER_ID` and `ROBLOSECURITY` cookie.
 4. Run `Start.bat` whenever you want to play!
 
-   For a detailed technical explanation of how Roblox cookies work and you could retrieve it, check out the [ro.py Documentation](https://ro.py.jmk.gg/dev/tutorials/roblosecurity/).
+   For a detailed technical explanation of how Roblox cookies work and how you could retrieve it, check out the [ro.py Documentation](https://ro.py.jmk.gg/dev/tutorials/roblosecurity/).
