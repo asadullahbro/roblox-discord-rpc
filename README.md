@@ -9,7 +9,7 @@ A high-performance, secure Python script that displays your current Roblox game 
 - **Smart Icons:** Fetches the actual game icon with a silver logo fallback.
 
 ## 🚀 Installation
-1. Download this repo.
+1. Download/Clone this repo.
 2. Run `Setup.bat` to create the virtual environment.
 3. Open the newly created `.env` file and paste your `ROBLOX_USER_ID` and `ROBLOSECURITY` cookie.
 4. Run `Start.bat` whenever you want to play!
