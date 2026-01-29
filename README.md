@@ -1,6 +1,6 @@
 # 🎮 Roblox Discord Rich Presence
 
-A high-performance, secure Python script that displays your current Roblox game as your Discord status.
+A secure Python script that displays your current Roblox game as your Discord status.
 
 ## ✨ Features
 - **Auto-Clear:** Status disappears instantly when you leave a game.
