@@ -15,4 +15,4 @@ A high-performance, secure Python script that displays your current Roblox game 
    For a detailed technical explanation of how Roblox cookies work and how you could retrieve it, check out the [ro.py Documentation](https://ro.py.jmk.gg/dev/tutorials/roblosecurity/).
 
 ## 🙏 Acknowlegdement
-1. You must have (Python)[https://www.python.org/downloads] installed for this to run.
+1. You must have [Python](https://www.python.org/downloads) installed for this to run.
