@@ -14,5 +14,5 @@ A secure Python script that displays your current Roblox game as your Discord st
 
    For a detailed technical explanation of how Roblox cookies work and how you could retrieve it, check out the [ro.py Documentation](https://ro.py.jmk.gg/dev/tutorials/roblosecurity/).
 
-## 🙏 Acknowlegdement
+## An Important Note
 1. You must have [Python](https://www.python.org/downloads) installed for this to run.
